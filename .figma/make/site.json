@@ -1,0 +1,10 @@
+{
+  "description": "Streamline waste management operations with a comprehensive dashboard for companies, enabling efficient communication, payment processing, and employee management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
